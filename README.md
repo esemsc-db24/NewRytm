@@ -5,7 +5,7 @@ The following file Neuroscienceprojecttradml.ipynb include:
 
 - Data engineering
 - EDA
-- MOdels comparison with KNN and decision trees proving to be clear winner in terms of accuracy when predicting stress conditions!
+- Models comparison with KNN and decision trees proving to be clear winner in terms of accuracy when predicting stress conditions!
 
 
 
